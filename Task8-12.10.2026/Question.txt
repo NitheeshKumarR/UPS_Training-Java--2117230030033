@@ -1,0 +1,1 @@
+Get a number as input from user and print whether it is even or odd without using if else statements.
