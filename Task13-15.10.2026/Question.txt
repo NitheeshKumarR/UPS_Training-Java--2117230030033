@@ -1,0 +1,1 @@
+Write a program to check wheher the given number is armstrong number.
